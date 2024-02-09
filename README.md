@@ -6,10 +6,4 @@ An app that generates random images of dogs & cache the images for single app se
 
 | Launch Screen | Home Screen | Generate Dogs Screen | Dogs Gallery Screen | Demo Video |
 | -- | -- | -- | -- | -- |
-| ![4](https://github.com/janviaroraa/Random-Dog-Generator/assets/68505024/12fe0643-656e-4d70-84cf-af019a4f69bc) | ![3](https://github.com/janviaroraa/Random-Dog-Generator/assets/68505024/6afc037d-672d-48a2-973f-1b3e9389f285) | ![2](https://github.com/janviaroraa/Random-Dog-Generator/assets/68505024/93389c4f-ae03-4ce7-b793-a7394e08f51b) | ![1](https://github.com/janviaroraa/Random-Dog-Generator/assets/68505024/633e8fcb-e1d9-4e81-a894-5ee352c3913d) | <video src="https://github.com/janviaroraa/Random-Dog-Generator/assets/68505024/05f10d97-5269-49e3-9343-70fa0e32948a"> |
-
-## 📸 SnapShots
-
-| Empty State | Logs captured |
-| -- | -- |
-| ![2](https://github.com/gokulnair2001/OSLogKit_DemoApp/assets/56252259/e44b684b-a0eb-4834-be9f-6c5094ba59a0) | ![1](https://github.com/gokulnair2001/OSLogKit_DemoApp/assets/56252259/b3520ebe-6e01-4b9a-8289-a921acfc1195) |
+| ![4](https://github.com/janviaroraa/Random-Dog-Generator/assets/68505024/be01a097-9545-485e-a3d8-001bf804ef1b) | ![3](https://github.com/janviaroraa/Random-Dog-Generator/assets/68505024/ddbcf6c6-b79a-41a9-841f-a7afa77f443c) | ![2](https://github.com/janviaroraa/Random-Dog-Generator/assets/68505024/cace45bc-1fec-4f26-b2fd-321be2d1ffb1) | ![1](https://github.com/janviaroraa/Random-Dog-Generator/assets/68505024/9f687e74-720c-4e54-9e4e-5c20ede7f87e) | <video src=""> |
