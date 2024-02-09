@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="launchScreen" translatesAutoresizingMaskIntoConstraints="NO" id="Kp7-cV-cmb">
+                                <rect key="frame" x="0.0" y="251.66666666666663" width="393" height="349"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="Kp7-cV-cmb" secondAttribute="height" multiplier="393:349" id="fGo-4x-XUE"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="Kp7-cV-cmb" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="0no-73-JOx"/>
+                            <constraint firstItem="Kp7-cV-cmb" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="IKm-Tc-fZA"/>
+                            <constraint firstItem="Kp7-cV-cmb" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="J1b-BG-grN"/>
+                            <constraint firstItem="Kp7-cV-cmb" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="JFy-Hu-rHM"/>
+                            <constraint firstItem="Kp7-cV-cmb" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="Pzc-ma-uvC"/>
+                            <constraint firstItem="Kp7-cV-cmb" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="ZpN-ZY-5g0"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="139.69465648854961" y="52.816901408450704"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="launchScreen" width="225" height="225"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
