@@ -2,6 +2,20 @@
 An app that generates random images of dogs & cache the images for single app session.
 <br/>
 
+## Concepts Used
+[![Generic badge] Programmatic UI
+[![Generic badge] No use of any third-party libraries
+[![Generic badge] URLSession
+[![Generic badge] MVC and MVVM pattern implementation
+[![Generic badge] Data persistence in single app session
+[![Generic badge] Singleton design pattern
+[![Generic badge] Data Parsing - Codable (Here, only decoding of data is involved though)
+[![Generic badge] Enums
+[![Generic badge] Collection View
+[![Generic badge] UIKit
+[![Generic badge] DispatchQueue
+[![Generic badge] Efficient use of ViewController Life Cycles
+
 ## Snapshots
 
 | Launch Screen | Home Screen | Generate Dogs Screen | Dogs Gallery Screen |
