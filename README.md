@@ -3,18 +3,18 @@ An app that generates random images of dogs & cache the images for single app se
 <br/>
 
 ## Concepts Used
-[![Generic badge] Programmatic UI
-[![Generic badge] No use of any third-party libraries
-[![Generic badge] URLSession
-[![Generic badge] MVC and MVVM pattern implementation
-[![Generic badge] Data persistence in single app session
-[![Generic badge] Singleton design pattern
-[![Generic badge] Data Parsing - Codable (Here, only decoding of data is involved though)
-[![Generic badge] Enums
-[![Generic badge] Collection View
-[![Generic badge] UIKit
-[![Generic badge] DispatchQueue
-[![Generic badge] Efficient use of ViewController Life Cycles
+** Programmatic UI
+** No use of any third-party libraries
+** URLSession
+** MVC and MVVM pattern implementation
+** Data persistence in single app session
+** Singleton design pattern
+** Data Parsing - Codable (Here, only decoding of data is involved though)
+** Enums
+** Collection View
+** UIKit
+** DispatchQueue
+** Efficient use of ViewController Life Cycles
 
 ## Snapshots
 
