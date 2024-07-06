@@ -1,8 +1,6 @@
-# Random-Dog-Generator
+# Random-Dog-Generator - [Problem Statement](https://github.com/user-attachments/files/16115079/SVG.pdf)
 An app that generates random images of dogs & cache the images for single app session.
 <br/>
-
-# [Problem Statement](https://github.com/user-attachments/files/16115079/SVG.pdf)
 
 # Concepts Used
 * Programmatic UI
