@@ -2,8 +2,7 @@
 An app that generates random images of dogs & cache the images for single app session.
 <br/>
 
-# Problem Statement
-[PDF](https://github.com/user-attachments/files/16115079/SVG.pdf)
+# [Problem Statement](https://github.com/user-attachments/files/16115079/SVG.pdf)
 
 # Concepts Used
 * Programmatic UI
